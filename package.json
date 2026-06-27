@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "normalize": "node scripts/normalize-links.js"
+  }
+}
